@@ -1,0 +1,7 @@
+.env
+config/serviceAccountKey.json
+serviceAccountKey.json
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/

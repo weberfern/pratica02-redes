@@ -1,0 +1,7 @@
+{
+    "descricao": "Arquivo de configuracao geral do ecossistema de sensores da fabrica",
+    "total_sensores": 30,
+    "intervalo_envio_padrao_s": 0.1,
+    "broker_ip": "127.0.0.1",
+    "broker_porta": 1883
+}

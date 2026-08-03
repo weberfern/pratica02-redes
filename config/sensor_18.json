@@ -1,0 +1,7 @@
+{
+    "sensor_id": 18,
+    "base_temp": 24.0,
+    "intervalo_envio_s": 0.1,
+    "broker_ip": "127.0.0.1",
+    "broker_porta": 1883
+}
