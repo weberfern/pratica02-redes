@@ -88,6 +88,7 @@ python gateway.py
 | --- | --- |
 | Everlir Richardson da Silva | 2023009842 |
 | Genildo da Silva Ferreira | 2025013782 |
+| Jefferson da Rocha Teodoro | 2025014000 |
 | Jefferson Rodrigues de Oliveira | 2025013432 |
 | José Valbério da Silva Sousa | 2023009691 |
 | Maria Fernanda Sousa Silva | 2025019580 |
