@@ -86,13 +86,13 @@ python gateway.py
 
 | Nome completo | Matrícula |
 | --- | --- |
-| Yan Brasil Angelim de Brito | 2025019024 |
-| Genildo da Silva Ferreira | 2025013782 |
-| Maria Fernanda Sousa Silva | 2025019580 |
-| José Valbério da Silva Sousa | 2023009691 |
 | Everlir Richardson da Silva | 2023009842 |
-| Weber Fernandes da Silva | 2025019356 |
+| Genildo da Silva Ferreira | 2025013782 |
 | Jefferson Rodrigues de Oliveira | 2025013432 |
+| José Valbério da Silva Sousa | 2023009691 |
+| Maria Fernanda Sousa Silva | 2025019580 |
+| Weber Fernandes da Silva | 2025019356 |
+| Yan Brasil Angelim de Brito | 2025019024 |
 
 ## Dependências principais
 
