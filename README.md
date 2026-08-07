@@ -90,7 +90,7 @@ python gateway.py
 
 **Resposta:** A arquitetura proposta utiliza o processamento na borda (Edge Analytics) por meio de uma Tumbling Window (janela temporal) de 1 segundo. No cenário simulado, temos 30 sensores operando com um intervalo de envio de 100 ms (0,1 s). Sendo assim, cada sensor envia 10 mensagens por segundo, totalizando 300 mensagens brutas recebidas pelo Gateway localmente a cada segundo. Ao invés de trafegar todas essas mensagens para a nuvem, o Gateway consolida os dados em uma média aritmética e envia apenas 1 pacote contendo o resumo estatístico. A economia de banda gerada é calculada da seguinte forma:
 
-![Fórmula de economia de dados](https://drive.google.com/file/d/1eVg90nCSqbVtxpD3OVSOEPdQ_juO6RAp/view?usp=sharing)
+![Fórmula de economia de dados](config/formula.png)
 
 **II. Latência de Alerta**
 
